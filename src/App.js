@@ -19,3 +19,20 @@ const App = () => {
 };
 
 export default App;
+//
+//
+// Before changes in 3.1 Functional Components.
+// const App = () => {
+//   return (
+//     <div>
+//       <Header />
+//       <Router>
+//         <Sidebar />
+//       </Router>
+//       <Footer />
+//     </div>
+//   );
+// };
+//App.js - holding the FunctionalComponentDemo code for now.
+// REMEMber you were in THE MIDDLE OF THIS
+//
