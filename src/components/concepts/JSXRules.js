@@ -3,7 +3,7 @@ import React from 'react';
 const JSXRules = () => {
   return (
     <div className='main'>
-      <div classname='mainDiv'>
+      <div className='mainDiv'>
         <h1 className='section-title'>JSX</h1>
         <dl>
           <dt>Resembles HTML</dt>
